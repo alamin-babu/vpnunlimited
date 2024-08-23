@@ -223,6 +223,7 @@ body {
     width: 80%;
 
 }
+
 .benifit img {
     width: 80px;
     height: 80px;
@@ -529,6 +530,7 @@ body {
         width: 70%;
         height: 100%;
     }
+
     .para button {
         width: 40%;
         height: 42px;
@@ -538,7 +540,7 @@ body {
         color: #72b7f9;
         margin-bottom: 12px;
     }
-    
+
 }
 
 
@@ -552,44 +554,51 @@ body {
     .ft-link {
         flex-direction: column;
     }
-    div{
+
+    div {
         padding: 5px;
     }
 
 }
 
-.ft-link{
+.ft-link {
     display: flex;
     margin-top: -1%;
     justify-content: space-between;
     flex: 1;
     margin-left: 3%;
 }
+
 .ft-link a {
     color: #d6dde1;
     text-decoration: none;
 
 }
+
 .ft-link span {
     color: #009cc5;
 }
+
 .copy {
-    color:#d6dde1;
+    color: #d6dde1;
 }
 
-@media(max-width:600px){
-    .copy{
+@media(max-width:600px) {
+    .copy {
         text-align: center;
     }
-    .copy p{
+
+    .copy p {
         width: 100%;
         text-align: center;
     }
-    #social-link{
+
+    #social-link {
         text-align: center;
-    
+
     }
-   #social-link span{
-    padding: 15px;
-   }
+
+    #social-link span {
+        padding: 15px;
+    }
 }
